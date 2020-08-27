@@ -1,6 +1,6 @@
 ## Skills Recap (Git, Command Line, HTML, & CSS)
 
-###Complete each of the items outlined below.
+###Complete each of the items outlined below.###
 *Commit any and all changes made to this READ.ME file.*
 
 1. In the wk-01 folder, make a new file called 'index.html'.
