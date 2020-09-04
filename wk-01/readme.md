@@ -7,7 +7,7 @@ Complete each of the items outlined below.
 Define the command(s) you used to create the new file: touch index.html
 
 2. Create a commit for your new file.
-Define the command(s) you used to create the commit:
+Define the command(s) you used to create the commit: git status, git add, git commit -m""
 
 3. Make a simple webpage using your index.html file. Your webpage must include:
 * A paragraph or list (ordered or unordered)
