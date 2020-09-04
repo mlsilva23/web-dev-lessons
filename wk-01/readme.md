@@ -4,7 +4,7 @@ Complete each of the items outlined below.
 *Commit any and all changes made to this READ.ME file.*
 
 1. In the wk-01 folder, make a new file called 'index.html'.
-Define the command(s) you used to create the new file:
+Define the command(s) you used to create the new file: touch index.html
 
 2. Create a commit for your new file.
 Define the command(s) you used to create the commit:
