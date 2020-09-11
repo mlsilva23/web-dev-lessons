@@ -8,7 +8,8 @@ Font selected: Ubuntu
 https://fonts.google.com/specimen/Ubuntu?sidebar.open=true&selection.family=Ubuntu
 
 2. Set a different font for all h3 elements.
-Font selected:
+Font selected: Lora
+https://fonts.google.com/specimen/Lora?selection.family=Lora&sidebar.open=true
 
 3. Change the color of all p elements to the color of your choosing.
 Hex color code:
