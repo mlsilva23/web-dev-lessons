@@ -15,7 +15,7 @@ https://fonts.google.com/specimen/Lora?selection.family=Lora&sidebar.open=true
 Hex color code: #00926E
 
 4. Change the color of the background to the color of your choosing.
-Hex color code:
+Hex color code: #FFCD3F
 
 6. Change the color of the element with id "main-title" to green.
 
