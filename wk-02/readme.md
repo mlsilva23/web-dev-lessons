@@ -12,7 +12,7 @@ Font selected: Lora
 https://fonts.google.com/specimen/Lora?selection.family=Lora&sidebar.open=true
 
 3. Change the color of all p elements to the color of your choosing.
-Hex color code: #00926E
+Hex color code: #0D7057
 
 4. Change the color of the background to the color of your choosing.
 Hex color code: #FFCD3F
