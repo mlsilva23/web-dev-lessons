@@ -1,3 +1,4 @@
+/* import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
@@ -8,12 +9,32 @@ html {
 
 h3 {
   font-family: 'Lora', Arial, sans-serif;
+  margin: 2em 0 0 0;
 }
 
 p {
   color:#0D7057;
+  margin-top: 0;
 }
 
 #main-title {
   color: green;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  margin-left: 2em;
+}
+
+/*Module/Modular*/
+.ingredient-list {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.ingredient-list h4 {
+  margin-bottom: 0.2em;
 }
